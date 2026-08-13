@@ -73,6 +73,8 @@ In the handoff, state the Product Hunt date/timezone, live/completed status, All
 
 For a local run, write under `product-hunt-daily/output/product-hunt-daily-YYYY-MM-DD/`. When the user explicitly asks to publish a validated run as an open-source project example, copy the final artifacts to the repository-level `examples/YYYY-MM-DD/`, add a concise date-level `README.md`, then run `python3 product-hunt-daily/scripts/update_example_index.py`. This command strictly validates every dated `contacts.json` and rebuilds `examples/index.json`, `examples/README.md`, and the repository README date table. Never publish partial or unvalidated captures as completed examples.
 
+Use Simplified Chinese for the repository's default `README.md`. Keep the full English landing page in `README.en.md` and shorter localized entry points under the repository-level `i18n/`. When publishing new example dates, keep translated landing pages linked to the shared validated example index instead of duplicating daily data into every language.
+
 ## QA
 
 - Confirm `inventory_source == product_hunt_in_app_browser` and no token/API path was used.

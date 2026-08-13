@@ -84,18 +84,26 @@ def examples_readme(entries: list[dict]) -> str:
     return "\n".join(lines)
 
 
-def root_table(entries: list[dict]) -> str:
-    lines = [
-        START_MARKER,
-        "| 日期 | 状态 | 官方可见产品 | Featured | 详情页 | 联系检查 | 公开邮箱 | 示例 |",
-        "|---|---|---:|---:|---:|---:|---:|---|",
-    ]
+def root_table(entries: list[dict], language: str = "zh-CN") -> str:
+    if language == "en":
+        lines = [
+            START_MARKER,
+            "| Date | Status | Visible products | Featured | Detail pages | Contact checks | Public email | Example |",
+            "|---|---|---:|---:|---:|---:|---:|---|",
+        ]
+    else:
+        lines = [
+            START_MARKER,
+            "| 日期 | 状态 | 官方可见产品 | Featured | 详情页 | 联系检查 | 公开邮箱 | 示例 |",
+            "|---|---|---:|---:|---:|---:|---:|---|",
+        ]
     for item in entries:
         count = item["product_count"]
+        link_label = "Open" if language == "en" else "查看示例"
         lines.append(
             f"| {item['date']} | {item['status']} | {count} | {item['featured_count']} | "
             f"{item['detail_pages_checked']}/{count} | {item['contact_checks']}/{count} | "
-            f"{item['public_email_products']} | [查看示例](examples/{item['date']}/) |"
+            f"{item['public_email_products']} | [{link_label}](examples/{item['date']}/) |"
         )
     lines.append(END_MARKER)
     return "\n".join(lines)
@@ -117,8 +125,9 @@ def main() -> int:
     repo_root = args.repo_root.resolve()
     examples_dir = repo_root / "examples"
     root_readme = repo_root / "README.md"
-    if not examples_dir.is_dir() or not root_readme.is_file():
-        print("ERROR: repository examples/ and README.md are required", file=sys.stderr)
+    english_readme = repo_root / "README.en.md"
+    if not examples_dir.is_dir() or not root_readme.is_file() or not english_readme.is_file():
+        print("ERROR: repository examples/, README.md, and README.en.md are required", file=sys.stderr)
         return 2
     entries, errors = collect(examples_dir)
     if errors:
@@ -129,13 +138,15 @@ def main() -> int:
         print("ERROR: no validated dated examples found", file=sys.stderr)
         return 1
     try:
-        updated_root = replace_root_table(root_readme.read_text(encoding="utf-8"), root_table(entries))
+        updated_root = replace_root_table(root_readme.read_text(encoding="utf-8"), root_table(entries, "zh-CN"))
+        updated_english = replace_root_table(english_readme.read_text(encoding="utf-8"), root_table(entries, "en"))
     except (OSError, ValueError) as exc:
         print(f"ERROR: unable to update root README: {exc}", file=sys.stderr)
         return 2
     (examples_dir / "index.json").write_text(json.dumps(entries, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     (examples_dir / "README.md").write_text(examples_readme(entries), encoding="utf-8")
     root_readme.write_text(updated_root, encoding="utf-8")
+    english_readme.write_text(updated_english, encoding="utf-8")
     print(f"Indexed {len(entries)} validated example date(s)")
     return 0
 
