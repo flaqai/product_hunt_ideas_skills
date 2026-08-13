@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Hunt Daily"
+  short_description: "通过内置浏览器获取完整日榜、团队与公开联系方式"
+  default_prompt: "Use $product-hunt-daily with the in-app browser to collect today's complete Product Hunt All and Featured views, open every product for maker details, and enrich public company contact channels without an API token."
