@@ -1,0 +1,1662 @@
+{
+  "schema_version": 2,
+  "leaderboard_date": "2026-08-12",
+  "day_timezone": "America/Los_Angeles",
+  "leaderboard_url": "https://www.producthunt.com/leaderboard/daily/2026/8/12",
+  "inventory_source": "product_hunt_in_app_browser",
+  "inventory_source_url": "https://www.producthunt.com/leaderboard/daily/2026/8/12",
+  "inventory_source_tier": "official_visible_webpage",
+  "accessed_at": "2026-08-13T04:40:22-07:00",
+  "data_status": "completed",
+  "collection_scope": "official_view_union",
+  "sort_order": "displayed_product_hunt_rank",
+  "inventory_complete": true,
+  "browser_collection": {
+    "all_end_reached": true,
+    "all_stable_passes": 2,
+    "all_displayed_total": null,
+    "all_final_recheck_matches": true,
+    "featured_end_reached": true,
+    "featured_stable_passes": 2,
+    "featured_displayed_total": null,
+    "detail_page_count": 18,
+    "all_source_product_count": 17,
+    "official_union_product_count": 18,
+    "recovered_from_featured_count": 1,
+    "featured_urls_absent_from_all": [
+      "https://www.producthunt.com/products/linforge"
+    ],
+    "all_displayed_rank_gaps": [
+      18,
+      19
+    ],
+    "featured_displayed_rank_gaps": []
+  },
+  "source_row_count": 18,
+  "duplicate_row_count": 0,
+  "featured_source_row_count": 17,
+  "featured_duplicate_row_count": 0,
+  "expected_product_count": 18,
+  "extracted_product_count": 18,
+  "expected_featured_count": 17,
+  "extracted_featured_count": 17,
+  "expected_unfeatured_count": 1,
+  "extracted_unfeatured_count": 1,
+  "products": [
+    {
+      "rank": 1,
+      "displayed_rank": 1,
+      "product_hunt_id": "",
+      "slug": "dograh",
+      "is_featured": true,
+      "featured_rank": 1,
+      "displayed_featured_rank": 1,
+      "featured_rank_source": "visible_featured_view_position",
+      "observed_in_all": true,
+      "observed_in_featured": true,
+      "recovered_from_view": "",
+      "product_name": "Dograh",
+      "tagline": "The open source VAPI alternative",
+      "description": "Closed voice platforms make you rent your own agents. Dograh is completely open source—nothing is gated. It includes a visual flow builder, 30+ model integrations or local models, telephony, human transfer, and QA/monitoring, and is free to self-host.",
+      "upvotes": 530,
+      "comments": 147,
+      "reviews_count": null,
+      "reviews_rating": null,
+      "created_at": "",
+      "featured_at": "",
+      "product_hunt_url": "https://www.producthunt.com/products/dograh",
+      "product_hunt_visit_url": "https://dograh.com/",
+      "official_website_url": "https://dograh.com/",
+      "thumbnail": null,
+      "media": [],
+      "topics": [
+        {
+          "name": "Open Source",
+          "slug": "open-source",
+          "url": "https://www.producthunt.com/topics/open-source"
+        },
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools",
+          "url": "https://www.producthunt.com/topics/developer-tools"
+        },
+        {
+          "name": "GitHub",
+          "slug": "github",
+          "url": "https://www.producthunt.com/topics/github"
+        }
+      ],
+      "product_links": [],
+      "developers": [
+        {
+          "name": "Rohan Chaubey",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@rohanrecommends"
+        },
+        {
+          "name": "Pritesh Kumar",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@pritesh_kumar3"
+        },
+        {
+          "name": "Sandeep Vemu",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@sandeep_vemu"
+        }
+      ],
+      "submitter": {},
+      "company": {
+        "name": "",
+        "source_url": "",
+        "confidence": ""
+      },
+      "enrichment_status": "enriched",
+      "contact_status": "found",
+      "contact_form_url": "https://www.dograh.com/contact",
+      "last_verified_at": "2026-08-13T04:40:22-07:00",
+      "emails": [
+        {
+          "email": "founders@dograh.com",
+          "type": "founder_developer",
+          "contact_name": "",
+          "source_url": "https://www.dograh.com/?ref=producthunt",
+          "source_context": "Visible founders email on official homepage",
+          "source_tier": "official_site",
+          "is_publicly_listed": true,
+          "confidence": "high"
+        }
+      ],
+      "public_channels": [
+        {
+          "type": "github",
+          "value": "https://github.com/dograh-hq/dograh",
+          "label": "GitHub",
+          "owner": "Dograh",
+          "source_url": "https://www.dograh.com/?ref=producthunt",
+          "source_context": "Linked from official homepage",
+          "source_tier": "official_linked_profile",
+          "confidence": "high"
+        }
+      ],
+      "pages_checked": [
+        "https://www.dograh.com/?ref=producthunt"
+      ],
+      "notes": ""
+    },
+    {
+      "rank": 2,
+      "displayed_rank": 2,
+      "product_hunt_id": "",
+      "slug": "grok",
+      "is_featured": true,
+      "featured_rank": 2,
+      "displayed_featured_rank": 2,
+      "featured_rank_source": "visible_featured_view_position",
+      "observed_in_all": true,
+      "observed_in_featured": true,
+      "recovered_from_view": "",
+      "product_name": "Grok Bot",
+      "tagline": "AI teammates that you can give real work to",
+      "description": "Grok Bot provides AI teammates that sign into tools, complete assigned work, keep context, multitask, learn a working style, and return when approval is needed.",
+      "upvotes": 477,
+      "comments": 20,
+      "reviews_count": null,
+      "reviews_rating": null,
+      "created_at": "",
+      "featured_at": "",
+      "product_hunt_url": "https://www.producthunt.com/products/grok",
+      "product_hunt_visit_url": "https://x.com/i/grok",
+      "official_website_url": "https://x.com/i/grok",
+      "thumbnail": null,
+      "media": [],
+      "topics": [
+        {
+          "name": "Productivity",
+          "slug": "productivity",
+          "url": "https://www.producthunt.com/topics/productivity"
+        },
+        {
+          "name": "Task Management",
+          "slug": "task-management",
+          "url": "https://www.producthunt.com/topics/task-management"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence",
+          "url": "https://www.producthunt.com/topics/artificial-intelligence"
+        }
+      ],
+      "product_links": [],
+      "developers": [
+        {
+          "name": "Ben Lang",
+          "role": "Hunter",
+          "source_url": "https://www.producthunt.com/@benln"
+        },
+        {
+          "name": "Lauren Place",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@lauren_place"
+        },
+        {
+          "name": "Lingxi Li",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@lilingxi01"
+        }
+      ],
+      "submitter": {},
+      "company": {
+        "name": "",
+        "source_url": "",
+        "confidence": ""
+      },
+      "enrichment_status": "blocked",
+      "contact_status": "site_unavailable",
+      "contact_form_url": "",
+      "last_verified_at": "2026-08-13T04:40:22-07:00",
+      "emails": [],
+      "public_channels": [],
+      "pages_checked": [
+        "https://x.com/i/grok?ref=producthunt"
+      ],
+      "notes": "Official Visit destination redirected to an X login page in the in-app browser."
+    },
+    {
+      "rank": 3,
+      "displayed_rank": 3,
+      "product_hunt_id": "",
+      "slug": "lettertrace",
+      "is_featured": true,
+      "featured_rank": 3,
+      "displayed_featured_rank": 3,
+      "featured_rank_source": "visible_featured_view_position",
+      "observed_in_all": true,
+      "observed_in_featured": true,
+      "recovered_from_view": "",
+      "product_name": "Lettertrace",
+      "tagline": "Track your AI visibility for free (using your own API keys!)",
+      "description": "Lettertrace measures how often Claude, ChatGPT, and Gemini mention a company. It is free, developer-first, bring-your-own-key, and open source.",
+      "upvotes": 384,
+      "comments": 59,
+      "reviews_count": null,
+      "reviews_rating": null,
+      "created_at": "",
+      "featured_at": "",
+      "product_hunt_url": "https://www.producthunt.com/products/lettertrace",
+      "product_hunt_visit_url": "https://lettertrace.com/",
+      "official_website_url": "https://lettertrace.com/",
+      "thumbnail": null,
+      "media": [],
+      "topics": [
+        {
+          "name": "Open Source",
+          "slug": "open-source",
+          "url": "https://www.producthunt.com/topics/open-source"
+        },
+        {
+          "name": "Analytics",
+          "slug": "analytics",
+          "url": "https://www.producthunt.com/topics/analytics"
+        },
+        {
+          "name": "Marketing",
+          "slug": "marketing",
+          "url": "https://www.producthunt.com/topics/marketing"
+        }
+      ],
+      "product_links": [],
+      "developers": [
+        {
+          "name": "fmerian",
+          "role": "Hunter",
+          "source_url": "https://www.producthunt.com/@fmerian"
+        },
+        {
+          "name": "Mathew Pregasen",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@pregasen"
+        },
+        {
+          "name": "Casey Millstein",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@cmillstein"
+        }
+      ],
+      "submitter": {},
+      "company": {
+        "name": "",
+        "source_url": "",
+        "confidence": ""
+      },
+      "enrichment_status": "enriched",
+      "contact_status": "found",
+      "contact_form_url": "",
+      "last_verified_at": "2026-08-13T04:40:22-07:00",
+      "emails": [
+        {
+          "email": "support@letterbrace.com",
+          "type": "support",
+          "contact_name": "",
+          "source_url": "https://lettertrace.com/?ref=producthunt",
+          "source_context": "Official homepage Contact mailto; domain differs from product domain",
+          "source_tier": "official_site",
+          "is_publicly_listed": true,
+          "confidence": "medium"
+        }
+      ],
+      "public_channels": [
+        {
+          "type": "github",
+          "value": "https://github.com/letterstory/lettertrace",
+          "label": "GitHub",
+          "owner": "Lettertrace",
+          "source_url": "https://lettertrace.com/?ref=producthunt",
+          "source_context": "Linked from official homepage",
+          "source_tier": "official_linked_profile",
+          "confidence": "high"
+        }
+      ],
+      "pages_checked": [
+        "https://lettertrace.com/?ref=producthunt"
+      ],
+      "notes": "Contact email is preserved exactly as linked by the official site; it uses letterbrace.com rather than lettertrace.com."
+    },
+    {
+      "rank": 4,
+      "displayed_rank": 4,
+      "product_hunt_id": "",
+      "slug": "assembly-7",
+      "is_featured": true,
+      "featured_rank": 4,
+      "displayed_featured_rank": 4,
+      "featured_rank_source": "visible_featured_view_position",
+      "observed_in_all": true,
+      "observed_in_featured": true,
+      "recovered_from_view": "",
+      "product_name": "Assembly Studio",
+      "tagline": "AI app builder that grows your revenue",
+      "description": "An AI app builder for professional service firms. It builds production-grade onboarding agents, analytics dashboards, and community hubs, connects to third-party tools, and supports deployment and templates.",
+      "upvotes": 255,
+      "comments": 14,
+      "reviews_count": null,
+      "reviews_rating": null,
+      "created_at": "",
+      "featured_at": "",
+      "product_hunt_url": "https://www.producthunt.com/products/assembly-7",
+      "product_hunt_visit_url": "https://studio.assembly.com/",
+      "official_website_url": "https://studio.assembly.com/",
+      "thumbnail": null,
+      "media": [],
+      "topics": [
+        {
+          "name": "Web App",
+          "slug": "web-app",
+          "url": "https://www.producthunt.com/topics/web-app"
+        },
+        {
+          "name": "SaaS",
+          "slug": "saas",
+          "url": "https://www.producthunt.com/topics/saas"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence",
+          "url": "https://www.producthunt.com/topics/artificial-intelligence"
+        }
+      ],
+      "product_links": [],
+      "developers": [
+        {
+          "name": "Ben Lang",
+          "role": "Hunter",
+          "source_url": "https://www.producthunt.com/@benln"
+        },
+        {
+          "name": "Neil Raina",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@neilraina"
+        },
+        {
+          "name": "Marlon Misra",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@marlonmisra"
+        }
+      ],
+      "submitter": {},
+      "company": {
+        "name": "",
+        "source_url": "",
+        "confidence": ""
+      },
+      "enrichment_status": "enriched",
+      "contact_status": "not_publicly_listed",
+      "contact_form_url": "",
+      "last_verified_at": "2026-08-13T04:40:22-07:00",
+      "emails": [],
+      "public_channels": [
+        {
+          "type": "x",
+          "value": "https://x.com/assemblycom",
+          "label": "X",
+          "owner": "Assembly",
+          "source_url": "https://studio.assembly.com/?ref=producthunt",
+          "source_context": "Linked from official homepage",
+          "source_tier": "official_linked_profile",
+          "confidence": "high"
+        },
+        {
+          "type": "linkedin",
+          "value": "https://www.linkedin.com/company/assemblycom",
+          "label": "LinkedIn",
+          "owner": "Assembly",
+          "source_url": "https://studio.assembly.com/?ref=producthunt",
+          "source_context": "Linked from official homepage",
+          "source_tier": "official_linked_profile",
+          "confidence": "high"
+        }
+      ],
+      "pages_checked": [
+        "https://studio.assembly.com/?ref=producthunt"
+      ],
+      "notes": ""
+    },
+    {
+      "rank": 5,
+      "displayed_rank": 5,
+      "product_hunt_id": "",
+      "slug": "unsloth",
+      "is_featured": true,
+      "featured_rank": 5,
+      "displayed_featured_rank": 5,
+      "featured_rank_source": "visible_featured_view_position",
+      "observed_in_all": true,
+      "observed_in_featured": true,
+      "recovered_from_view": "",
+      "product_name": "Unsloth Desktop",
+      "tagline": "Run and train AI models locally on your desktop",
+      "description": "An open-source desktop app to run and train AI models locally, including LLMs, image/video diffusion, and audio, with no-code fine-tuning and local-agent connections.",
+      "upvotes": 227,
+      "comments": 2,
+      "reviews_count": null,
+      "reviews_rating": null,
+      "created_at": "",
+      "featured_at": "",
+      "product_hunt_url": "https://www.producthunt.com/products/unsloth",
+      "product_hunt_visit_url": "https://unsloth.ai/",
+      "official_website_url": "https://unsloth.ai/",
+      "thumbnail": null,
+      "media": [],
+      "topics": [
+        {
+          "name": "Open Source",
+          "slug": "open-source",
+          "url": "https://www.producthunt.com/topics/open-source"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence",
+          "url": "https://www.producthunt.com/topics/artificial-intelligence"
+        },
+        {
+          "name": "GitHub",
+          "slug": "github",
+          "url": "https://www.producthunt.com/topics/github"
+        }
+      ],
+      "product_links": [],
+      "developers": [
+        {
+          "name": "Zac Zuo",
+          "role": "Hunter",
+          "source_url": "https://www.producthunt.com/@zaczuo"
+        },
+        {
+          "name": "Michael Han",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@danielunsloth"
+        },
+        {
+          "name": "Daniel Han-Chen",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@danielhanchen"
+        }
+      ],
+      "submitter": {},
+      "company": {
+        "name": "",
+        "source_url": "",
+        "confidence": ""
+      },
+      "enrichment_status": "enriched",
+      "contact_status": "not_publicly_listed",
+      "contact_form_url": "",
+      "last_verified_at": "2026-08-13T04:40:22-07:00",
+      "emails": [],
+      "public_channels": [
+        {
+          "type": "github",
+          "value": "https://github.com/unslothai/unsloth",
+          "label": "GitHub",
+          "owner": "Unsloth",
+          "source_url": "https://unsloth.ai/?ref=producthunt",
+          "source_context": "Linked from official homepage",
+          "source_tier": "official_linked_profile",
+          "confidence": "high"
+        },
+        {
+          "type": "discord",
+          "value": "https://discord.com/invite/unsloth",
+          "label": "Discord",
+          "owner": "Unsloth",
+          "source_url": "https://unsloth.ai/?ref=producthunt",
+          "source_context": "Linked from official homepage",
+          "source_tier": "official_linked_profile",
+          "confidence": "high"
+        },
+        {
+          "type": "linkedin",
+          "value": "https://www.linkedin.com/company/unsloth",
+          "label": "LinkedIn",
+          "owner": "Unsloth",
+          "source_url": "https://unsloth.ai/?ref=producthunt",
+          "source_context": "Linked from official homepage",
+          "source_tier": "official_linked_profile",
+          "confidence": "high"
+        },
+        {
+          "type": "x",
+          "value": "https://x.com/unslothai",
+          "label": "X",
+          "owner": "Unsloth",
+          "source_url": "https://unsloth.ai/?ref=producthunt",
+          "source_context": "Linked from official homepage",
+          "source_tier": "official_linked_profile",
+          "confidence": "high"
+        }
+      ],
+      "pages_checked": [
+        "https://unsloth.ai/?ref=producthunt"
+      ],
+      "notes": ""
+    },
+    {
+      "rank": 6,
+      "displayed_rank": 6,
+      "product_hunt_id": "",
+      "slug": "beardrive",
+      "is_featured": true,
+      "featured_rank": 6,
+      "displayed_featured_rank": 6,
+      "featured_rank_source": "visible_featured_view_position",
+      "observed_in_all": true,
+      "observed_in_featured": true,
+      "recovered_from_view": "",
+      "product_name": "BearDrive",
+      "tagline": "The open-source shared folder for your team's AI agents",
+      "description": "BearDrive syncs the local folders used by AI agents so files are shared, versioned, attributed to agent sessions, and readable at local paths. It is open source and self-hostable.",
+      "upvotes": 173,
+      "comments": 24,
+      "reviews_count": null,
+      "reviews_rating": null,
+      "created_at": "",
+      "featured_at": "",
+      "product_hunt_url": "https://www.producthunt.com/products/beardrive",
+      "product_hunt_visit_url": "https://beardrive.ai/",
+      "official_website_url": "https://beardrive.ai/",
+      "thumbnail": null,
+      "media": [],
+      "topics": [
+        {
+          "name": "Productivity",
+          "slug": "productivity",
+          "url": "https://www.producthunt.com/topics/productivity"
+        },
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools",
+          "url": "https://www.producthunt.com/topics/developer-tools"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence",
+          "url": "https://www.producthunt.com/topics/artificial-intelligence"
+        }
+      ],
+      "product_links": [],
+      "developers": [
+        {
+          "name": "Snow Lee",
+          "role": "Hunter",
+          "source_url": "https://www.producthunt.com/@snowlee"
+        },
+        {
+          "name": "Liam Hwang",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@thefron"
+        },
+        {
+          "name": "Shuwn Jung",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@shuwn_jung"
+        }
+      ],
+      "submitter": {},
+      "company": {
+        "name": "",
+        "source_url": "",
+        "confidence": ""
+      },
+      "enrichment_status": "enriched",
+      "contact_status": "not_publicly_listed",
+      "contact_form_url": "",
+      "last_verified_at": "2026-08-13T04:40:22-07:00",
+      "emails": [],
+      "public_channels": [
+        {
+          "type": "github",
+          "value": "https://github.com/runbear-io/beardrive",
+          "label": "GitHub",
+          "owner": "BearDrive",
+          "source_url": "https://beardrive.ai/?ref=producthunt",
+          "source_context": "Linked from official homepage",
+          "source_tier": "official_linked_profile",
+          "confidence": "high"
+        }
+      ],
+      "pages_checked": [
+        "https://beardrive.ai/?ref=producthunt"
+      ],
+      "notes": ""
+    },
+    {
+      "rank": 7,
+      "displayed_rank": 7,
+      "product_hunt_id": "",
+      "slug": "swipe-9",
+      "is_featured": true,
+      "featured_rank": 7,
+      "displayed_featured_rank": 7,
+      "featured_rank_source": "visible_featured_view_position",
+      "observed_in_all": true,
+      "observed_in_featured": true,
+      "recovered_from_view": "",
+      "product_name": "Swipe",
+      "tagline": "Swipe right on your next customer",
+      "description": "Enter a target customer profile, review a ranked deck of real companies, keep or skip prospects, and export the selected companies to CSV without sign-up or credits.",
+      "upvotes": 142,
+      "comments": 19,
+      "reviews_count": null,
+      "reviews_rating": null,
+      "created_at": "",
+      "featured_at": "",
+      "product_hunt_url": "https://www.producthunt.com/products/swipe-9",
+      "product_hunt_visit_url": "https://swipe.agently.dev/",
+      "official_website_url": "https://swipe.agently.dev/",
+      "thumbnail": null,
+      "media": [],
+      "topics": [
+        {
+          "name": "Productivity",
+          "slug": "productivity",
+          "url": "https://www.producthunt.com/topics/productivity"
+        },
+        {
+          "name": "Sales",
+          "slug": "sales",
+          "url": "https://www.producthunt.com/topics/sales"
+        },
+        {
+          "name": "Marketing",
+          "slug": "marketing",
+          "url": "https://www.producthunt.com/topics/marketing"
+        }
+      ],
+      "product_links": [],
+      "developers": [
+        {
+          "name": "Omar Ghandour",
+          "role": "Hunter",
+          "source_url": "https://www.producthunt.com/@omarships"
+        },
+        {
+          "name": "Ahmad",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@ahmadhajj"
+        }
+      ],
+      "submitter": {},
+      "company": {
+        "name": "",
+        "source_url": "",
+        "confidence": ""
+      },
+      "enrichment_status": "enriched",
+      "contact_status": "not_publicly_listed",
+      "contact_form_url": "",
+      "last_verified_at": "2026-08-13T04:40:22-07:00",
+      "emails": [],
+      "public_channels": [],
+      "pages_checked": [
+        "https://swipe.agently.dev/?ref=producthunt"
+      ],
+      "notes": ""
+    },
+    {
+      "rank": 8,
+      "displayed_rank": 8,
+      "product_hunt_id": "",
+      "slug": "laracopilot",
+      "is_featured": true,
+      "featured_rank": 8,
+      "displayed_featured_rank": 8,
+      "featured_rank_source": "visible_featured_view_position",
+      "observed_in_all": true,
+      "observed_in_featured": true,
+      "recovered_from_view": "",
+      "product_name": "LaraCopilot",
+      "tagline": "Agentic AI Engineer that builds real apps",
+      "description": "An agentic AI engineer that creates production-ready UI, backend, database, authentication, and APIs from a plain-language idea, with cloud deployment, GitHub export, and rollback.",
+      "upvotes": 145,
+      "comments": 26,
+      "reviews_count": null,
+      "reviews_rating": null,
+      "created_at": "",
+      "featured_at": "",
+      "product_hunt_url": "https://www.producthunt.com/products/laracopilot",
+      "product_hunt_visit_url": "https://laracopilot.com/",
+      "official_website_url": "https://laracopilot.com/",
+      "thumbnail": null,
+      "media": [],
+      "topics": [
+        {
+          "name": "SaaS",
+          "slug": "saas",
+          "url": "https://www.producthunt.com/topics/saas"
+        },
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools",
+          "url": "https://www.producthunt.com/topics/developer-tools"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence",
+          "url": "https://www.producthunt.com/topics/artificial-intelligence"
+        }
+      ],
+      "product_links": [],
+      "developers": [
+        {
+          "name": "sahil darji",
+          "role": "Hunter",
+          "source_url": "https://www.producthunt.com/@sahil_darji1"
+        },
+        {
+          "name": "Vishal Rajpurohit",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@vishal_rajpurohit"
+        },
+        {
+          "name": "Mukund Parekh",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@mukund_parekh"
+        }
+      ],
+      "submitter": {},
+      "company": {
+        "name": "",
+        "source_url": "",
+        "confidence": ""
+      },
+      "enrichment_status": "enriched",
+      "contact_status": "not_publicly_listed",
+      "contact_form_url": "",
+      "last_verified_at": "2026-08-13T04:40:22-07:00",
+      "emails": [],
+      "public_channels": [],
+      "pages_checked": [
+        "https://laracopilot.com/?ref=producthunt"
+      ],
+      "notes": ""
+    },
+    {
+      "rank": 9,
+      "displayed_rank": 9,
+      "product_hunt_id": "",
+      "slug": "click-6",
+      "is_featured": true,
+      "featured_rank": 9,
+      "displayed_featured_rank": 9,
+      "featured_rank_source": "visible_featured_view_position",
+      "observed_in_all": true,
+      "observed_in_featured": true,
+      "recovered_from_view": "",
+      "product_name": "Click",
+      "tagline": "Live research context for ChatGPT and Claude",
+      "description": "An MCP providing research connectors to professional and social platforms, marketplaces, financial data, and other live sources for ChatGPT and Claude.",
+      "upvotes": 132,
+      "comments": 6,
+      "reviews_count": null,
+      "reviews_rating": null,
+      "created_at": "",
+      "featured_at": "",
+      "product_hunt_url": "https://www.producthunt.com/products/click-6",
+      "product_hunt_visit_url": "https://useclick.ai/",
+      "official_website_url": "https://useclick.ai/",
+      "thumbnail": null,
+      "media": [],
+      "topics": [
+        {
+          "name": "Productivity",
+          "slug": "productivity",
+          "url": "https://www.producthunt.com/topics/productivity"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence",
+          "url": "https://www.producthunt.com/topics/artificial-intelligence"
+        }
+      ],
+      "product_links": [],
+      "developers": [
+        {
+          "name": "Garry Tan",
+          "role": "Hunter",
+          "source_url": "https://www.producthunt.com/@garrytan"
+        },
+        {
+          "name": "Aditya Asgaonkar",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@adiasg"
+        }
+      ],
+      "submitter": {},
+      "company": {
+        "name": "",
+        "source_url": "",
+        "confidence": ""
+      },
+      "enrichment_status": "enriched",
+      "contact_status": "not_publicly_listed",
+      "contact_form_url": "",
+      "last_verified_at": "2026-08-13T04:40:22-07:00",
+      "emails": [],
+      "public_channels": [
+        {
+          "type": "x",
+          "value": "https://x.com/useclick_ai",
+          "label": "X",
+          "owner": "Click",
+          "source_url": "https://www.useclick.ai/?ref=producthunt",
+          "source_context": "Linked from official homepage",
+          "source_tier": "official_linked_profile",
+          "confidence": "high"
+        },
+        {
+          "type": "linkedin",
+          "value": "https://www.linkedin.com/company/use-click",
+          "label": "LinkedIn",
+          "owner": "Click",
+          "source_url": "https://www.useclick.ai/?ref=producthunt",
+          "source_context": "Linked from official homepage",
+          "source_tier": "official_linked_profile",
+          "confidence": "high"
+        }
+      ],
+      "pages_checked": [
+        "https://www.useclick.ai/?ref=producthunt"
+      ],
+      "notes": ""
+    },
+    {
+      "rank": 10,
+      "displayed_rank": 10,
+      "product_hunt_id": "",
+      "slug": "rightcard",
+      "is_featured": true,
+      "featured_rank": 10,
+      "displayed_featured_rank": 10,
+      "featured_rank_source": "visible_featured_view_position",
+      "observed_in_all": true,
+      "observed_in_featured": true,
+      "recovered_from_view": "",
+      "product_name": "RightCard",
+      "tagline": "The honest credit card picker — no bank login",
+      "description": "An iOS/Safari tool that recommends which card to use, activates eligible bank offers, tracks rotating rewards, and warns about expiring credits or annual fees without requiring a bank login.",
+      "upvotes": 117,
+      "comments": 12,
+      "reviews_count": null,
+      "reviews_rating": null,
+      "created_at": "",
+      "featured_at": "",
+      "product_hunt_url": "https://www.producthunt.com/products/rightcard",
+      "product_hunt_visit_url": "https://apps.apple.com/app/id6756834989",
+      "official_website_url": "https://apps.apple.com/app/id6756834989",
+      "thumbnail": null,
+      "media": [],
+      "topics": [
+        {
+          "name": "iOS",
+          "slug": "ios",
+          "url": "https://www.producthunt.com/topics/ios"
+        },
+        {
+          "name": "Fintech",
+          "slug": "fintech",
+          "url": "https://www.producthunt.com/topics/fintech"
+        },
+        {
+          "name": "Personal Finance",
+          "slug": "personal-finance",
+          "url": "https://www.producthunt.com/topics/personal-finance"
+        }
+      ],
+      "product_links": [],
+      "developers": [
+        {
+          "name": "Parikshit Madahar",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@parikshit_builds"
+        }
+      ],
+      "submitter": {},
+      "company": {
+        "name": "",
+        "source_url": "",
+        "confidence": ""
+      },
+      "enrichment_status": "blocked",
+      "contact_status": "site_unavailable",
+      "contact_form_url": "",
+      "last_verified_at": "2026-08-13T04:40:22-07:00",
+      "emails": [],
+      "public_channels": [],
+      "pages_checked": [
+        "https://apps.apple.com/app/id6756834989?ct=producthunt&ref=producthunt"
+      ],
+      "notes": "App Store destination redirected to the regional Today page; product contact details were not visible."
+    },
+    {
+      "rank": 11,
+      "displayed_rank": 11,
+      "product_hunt_id": "",
+      "slug": "codeburn",
+      "is_featured": true,
+      "featured_rank": 11,
+      "displayed_featured_rank": 11,
+      "featured_rank_source": "visible_featured_view_position",
+      "observed_in_all": true,
+      "observed_in_featured": true,
+      "recovered_from_view": "",
+      "product_name": "CodeBurn",
+      "tagline": "See where your AI coding spend actually goes",
+      "description": "A free, open-source local tracker for AI coding costs across 40 tools, showing token and dollar usage by task, model, project, and pull request, plus optimization recommendations.",
+      "upvotes": 106,
+      "comments": 13,
+      "reviews_count": null,
+      "reviews_rating": null,
+      "created_at": "",
+      "featured_at": "",
+      "product_hunt_url": "https://www.producthunt.com/products/codeburn",
+      "product_hunt_visit_url": "https://www.codeburn.app/",
+      "official_website_url": "https://www.codeburn.app/",
+      "thumbnail": null,
+      "media": [],
+      "topics": [
+        {
+          "name": "Open Source",
+          "slug": "open-source",
+          "url": "https://www.producthunt.com/topics/open-source"
+        },
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools",
+          "url": "https://www.producthunt.com/topics/developer-tools"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence",
+          "url": "https://www.producthunt.com/topics/artificial-intelligence"
+        }
+      ],
+      "product_links": [],
+      "developers": [
+        {
+          "name": "Resham Joshi",
+          "role": "Hunter",
+          "source_url": "https://www.producthunt.com/@iamtoruk"
+        },
+        {
+          "name": "Aditya Vikram Singh",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@adityavsingh"
+        }
+      ],
+      "submitter": {},
+      "company": {
+        "name": "",
+        "source_url": "",
+        "confidence": ""
+      },
+      "enrichment_status": "enriched",
+      "contact_status": "not_publicly_listed",
+      "contact_form_url": "",
+      "last_verified_at": "2026-08-13T04:40:22-07:00",
+      "emails": [],
+      "public_channels": [],
+      "pages_checked": [
+        "https://www.codeburn.app/?ref=producthunt"
+      ],
+      "notes": ""
+    },
+    {
+      "rank": 12,
+      "displayed_rank": 12,
+      "product_hunt_id": "",
+      "slug": "trigger-dev",
+      "is_featured": true,
+      "featured_rank": 12,
+      "displayed_featured_rank": 12,
+      "featured_rank_source": "visible_featured_view_position",
+      "observed_in_all": true,
+      "observed_in_featured": true,
+      "recovered_from_view": "",
+      "product_name": "Chat Agent by Trigger.dev",
+      "tagline": "AI chat that keeps running after you close the tab",
+      "description": "A durable AI chat transport that keeps streaming through refreshes and crashes, sleeps when idle, wakes with preserved state, and traces prompts, tool calls, latency, and cost.",
+      "upvotes": 104,
+      "comments": 3,
+      "reviews_count": null,
+      "reviews_rating": null,
+      "created_at": "",
+      "featured_at": "",
+      "product_hunt_url": "https://www.producthunt.com/products/trigger-dev",
+      "product_hunt_visit_url": "https://trigger.dev/",
+      "official_website_url": "https://trigger.dev/",
+      "thumbnail": null,
+      "media": [],
+      "topics": [
+        {
+          "name": "Open Source",
+          "slug": "open-source",
+          "url": "https://www.producthunt.com/topics/open-source"
+        },
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools",
+          "url": "https://www.producthunt.com/topics/developer-tools"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence",
+          "url": "https://www.producthunt.com/topics/artificial-intelligence"
+        }
+      ],
+      "product_links": [],
+      "developers": [
+        {
+          "name": "fmerian",
+          "role": "Hunter",
+          "source_url": "https://www.producthunt.com/@fmerian"
+        },
+        {
+          "name": "James Ritchie",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@samejr"
+        },
+        {
+          "name": "Eric Allam",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@maverickdotdev"
+        }
+      ],
+      "submitter": {},
+      "company": {
+        "name": "",
+        "source_url": "",
+        "confidence": ""
+      },
+      "enrichment_status": "enriched",
+      "contact_status": "contact_form_only",
+      "contact_form_url": "https://trigger.dev/contact",
+      "last_verified_at": "2026-08-13T04:40:22-07:00",
+      "emails": [],
+      "public_channels": [
+        {
+          "type": "github",
+          "value": "https://github.com/triggerdotdev/trigger.dev",
+          "label": "GitHub",
+          "owner": "Trigger.dev",
+          "source_url": "https://trigger.dev/?ref=producthunt",
+          "source_context": "Linked from official homepage",
+          "source_tier": "official_linked_profile",
+          "confidence": "high"
+        },
+        {
+          "type": "discord",
+          "value": "https://trigger.dev/discord",
+          "label": "Discord",
+          "owner": "Trigger.dev",
+          "source_url": "https://trigger.dev/?ref=producthunt",
+          "source_context": "Linked from official homepage",
+          "source_tier": "official_linked_profile",
+          "confidence": "high"
+        },
+        {
+          "type": "linkedin",
+          "value": "https://www.linkedin.com/company/triggerdotdev",
+          "label": "LinkedIn",
+          "owner": "Trigger.dev",
+          "source_url": "https://trigger.dev/?ref=producthunt",
+          "source_context": "Linked from official homepage",
+          "source_tier": "official_linked_profile",
+          "confidence": "high"
+        }
+      ],
+      "pages_checked": [
+        "https://trigger.dev/?ref=producthunt"
+      ],
+      "notes": ""
+    },
+    {
+      "rank": 13,
+      "displayed_rank": 13,
+      "product_hunt_id": "",
+      "slug": "argos",
+      "is_featured": true,
+      "featured_rank": 13,
+      "displayed_featured_rank": 13,
+      "featured_rank_source": "visible_featured_view_position",
+      "observed_in_all": true,
+      "observed_in_featured": true,
+      "recovered_from_view": "",
+      "product_name": "Media Sharing",
+      "tagline": "Let AI agents put screenshots and videos on pull requests",
+      "description": "Argos Media Sharing turns screenshots or recordings into stable share links with ready-to-paste Markdown and can post the media automatically on a pull request.",
+      "upvotes": 104,
+      "comments": 3,
+      "reviews_count": null,
+      "reviews_rating": null,
+      "created_at": "",
+      "featured_at": "",
+      "product_hunt_url": "https://www.producthunt.com/products/argos",
+      "product_hunt_visit_url": "https://argos-ci.com/",
+      "official_website_url": "https://argos-ci.com/",
+      "thumbnail": null,
+      "media": [],
+      "topics": [
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence",
+          "url": "https://www.producthunt.com/topics/artificial-intelligence"
+        },
+        {
+          "name": "GitHub",
+          "slug": "github",
+          "url": "https://www.producthunt.com/topics/github"
+        },
+        {
+          "name": "Tech",
+          "slug": "tech",
+          "url": "https://www.producthunt.com/topics/tech"
+        }
+      ],
+      "product_links": [],
+      "developers": [
+        {
+          "name": "Greg Bergé",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@gregberge"
+        },
+        {
+          "name": "Jeremy Sfez",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@jeremy_sfez"
+        }
+      ],
+      "submitter": {},
+      "company": {
+        "name": "",
+        "source_url": "",
+        "confidence": ""
+      },
+      "enrichment_status": "enriched",
+      "contact_status": "contact_form_only",
+      "contact_form_url": "https://argos-ci.com/contact",
+      "last_verified_at": "2026-08-13T04:40:22-07:00",
+      "emails": [],
+      "public_channels": [
+        {
+          "type": "github",
+          "value": "https://github.com/argos-ci/argos",
+          "label": "GitHub",
+          "owner": "Argos",
+          "source_url": "https://argos-ci.com/?ref=producthunt",
+          "source_context": "Linked from official homepage",
+          "source_tier": "official_linked_profile",
+          "confidence": "high"
+        },
+        {
+          "type": "x",
+          "value": "https://twitter.com/argos_ci",
+          "label": "X",
+          "owner": "Argos",
+          "source_url": "https://argos-ci.com/?ref=producthunt",
+          "source_context": "Linked from official homepage",
+          "source_tier": "official_linked_profile",
+          "confidence": "high"
+        },
+        {
+          "type": "discord",
+          "value": "https://argos-ci.com/discord",
+          "label": "Discord",
+          "owner": "Argos",
+          "source_url": "https://argos-ci.com/?ref=producthunt",
+          "source_context": "Linked from official homepage",
+          "source_tier": "official_linked_profile",
+          "confidence": "high"
+        }
+      ],
+      "pages_checked": [
+        "https://argos-ci.com/?ref=producthunt"
+      ],
+      "notes": ""
+    },
+    {
+      "rank": 14,
+      "displayed_rank": 14,
+      "product_hunt_id": "",
+      "slug": "tash",
+      "is_featured": true,
+      "featured_rank": 14,
+      "displayed_featured_rank": 14,
+      "featured_rank_source": "visible_featured_view_position",
+      "observed_in_all": true,
+      "observed_in_featured": true,
+      "recovered_from_view": "",
+      "product_name": "tash",
+      "tagline": "The investment platform for trading cards",
+      "description": "An investment platform for professionally curated portfolios of high-end graded trading cards, covering sourcing, verification, vaulting, reporting, and eventual sale.",
+      "upvotes": 97,
+      "comments": 5,
+      "reviews_count": null,
+      "reviews_rating": null,
+      "created_at": "",
+      "featured_at": "",
+      "product_hunt_url": "https://www.producthunt.com/products/tash",
+      "product_hunt_visit_url": "https://www.tash.cards/",
+      "official_website_url": "https://www.tash.cards/",
+      "thumbnail": null,
+      "media": [],
+      "topics": [
+        {
+          "name": "Card Games",
+          "slug": "card-games",
+          "url": "https://www.producthunt.com/topics/card-games"
+        },
+        {
+          "name": "Fintech",
+          "slug": "fintech",
+          "url": "https://www.producthunt.com/topics/fintech"
+        },
+        {
+          "name": "Investing",
+          "slug": "investing",
+          "url": "https://www.producthunt.com/topics/investing"
+        }
+      ],
+      "product_links": [],
+      "developers": [
+        {
+          "name": "Garry Tan",
+          "role": "Hunter",
+          "source_url": "https://www.producthunt.com/@garrytan"
+        },
+        {
+          "name": "Victor Shammas",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@victorshammas"
+        },
+        {
+          "name": "Nathan Borshell",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@nathanborshell"
+        }
+      ],
+      "submitter": {},
+      "company": {
+        "name": "",
+        "source_url": "",
+        "confidence": ""
+      },
+      "enrichment_status": "enriched",
+      "contact_status": "found",
+      "contact_form_url": "",
+      "last_verified_at": "2026-08-13T04:40:22-07:00",
+      "emails": [
+        {
+          "email": "founders@tash.cards",
+          "type": "founder_developer",
+          "contact_name": "",
+          "source_url": "https://tash.cards/?ref=producthunt",
+          "source_context": "Official homepage Contact Us mailto",
+          "source_tier": "official_site",
+          "is_publicly_listed": true,
+          "confidence": "high"
+        }
+      ],
+      "public_channels": [
+        {
+          "type": "linkedin",
+          "value": "https://www.linkedin.com/company/tash-cards/",
+          "label": "LinkedIn",
+          "owner": "tash",
+          "source_url": "https://tash.cards/?ref=producthunt",
+          "source_context": "Linked from official homepage",
+          "source_tier": "official_linked_profile",
+          "confidence": "high"
+        },
+        {
+          "type": "x",
+          "value": "https://x.com/tashcards",
+          "label": "X",
+          "owner": "tash",
+          "source_url": "https://tash.cards/?ref=producthunt",
+          "source_context": "Linked from official homepage",
+          "source_tier": "official_linked_profile",
+          "confidence": "high"
+        }
+      ],
+      "pages_checked": [
+        "https://tash.cards/?ref=producthunt"
+      ],
+      "notes": ""
+    },
+    {
+      "rank": 15,
+      "displayed_rank": 15,
+      "product_hunt_id": "",
+      "slug": "ballet",
+      "is_featured": true,
+      "featured_rank": 15,
+      "displayed_featured_rank": 15,
+      "featured_rank_source": "visible_featured_view_position",
+      "observed_in_all": true,
+      "observed_in_featured": true,
+      "recovered_from_view": "",
+      "product_name": "Ballet",
+      "tagline": "Agentic workflows that deliver the same outcome every time",
+      "description": "Ballet turns plain-English workflow descriptions into code-backed operational automations with an audit log, rollback, simulation mode, and controllable execution permissions.",
+      "upvotes": 96,
+      "comments": 1,
+      "reviews_count": null,
+      "reviews_rating": null,
+      "created_at": "",
+      "featured_at": "",
+      "product_hunt_url": "https://www.producthunt.com/products/ballet",
+      "product_hunt_visit_url": "https://ballet.dev/",
+      "official_website_url": "https://ballet.dev/",
+      "thumbnail": null,
+      "media": [],
+      "topics": [
+        {
+          "name": "Productivity",
+          "slug": "productivity",
+          "url": "https://www.producthunt.com/topics/productivity"
+        },
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools",
+          "url": "https://www.producthunt.com/topics/developer-tools"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence",
+          "url": "https://www.producthunt.com/topics/artificial-intelligence"
+        }
+      ],
+      "product_links": [],
+      "developers": [
+        {
+          "name": "Daniel Kimber",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@danielkimber"
+        },
+        {
+          "name": "Ajain Vivek",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@ajain_vivek_brainfish"
+        },
+        {
+          "name": "Jess Fisher",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@jess_fisher"
+        }
+      ],
+      "submitter": {},
+      "company": {
+        "name": "",
+        "source_url": "",
+        "confidence": ""
+      },
+      "enrichment_status": "enriched",
+      "contact_status": "not_publicly_listed",
+      "contact_form_url": "",
+      "last_verified_at": "2026-08-13T04:40:22-07:00",
+      "emails": [],
+      "public_channels": [],
+      "pages_checked": [
+        "https://www.ballet.dev/?ref=producthunt"
+      ],
+      "notes": ""
+    },
+    {
+      "rank": 16,
+      "displayed_rank": 16,
+      "product_hunt_id": "",
+      "slug": "sidekick-16",
+      "is_featured": true,
+      "featured_rank": 16,
+      "displayed_featured_rank": 16,
+      "featured_rank_source": "visible_featured_view_position",
+      "observed_in_all": true,
+      "observed_in_featured": true,
+      "recovered_from_view": "",
+      "product_name": "Sidekick™",
+      "tagline": "The agentic interface",
+      "description": "An agentic interface for Mac positioned as an organization-wide agentic layer.",
+      "upvotes": 88,
+      "comments": 7,
+      "reviews_count": null,
+      "reviews_rating": null,
+      "created_at": "",
+      "featured_at": "",
+      "product_hunt_url": "https://www.producthunt.com/products/sidekick-16",
+      "product_hunt_visit_url": "https://sidekick-os.online/",
+      "official_website_url": "https://sidekick-os.online/",
+      "thumbnail": null,
+      "media": [],
+      "topics": [
+        {
+          "name": "Mac",
+          "slug": "mac",
+          "url": "https://www.producthunt.com/topics/mac"
+        },
+        {
+          "name": "Productivity",
+          "slug": "productivity",
+          "url": "https://www.producthunt.com/topics/productivity"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence",
+          "url": "https://www.producthunt.com/topics/artificial-intelligence"
+        }
+      ],
+      "product_links": [],
+      "developers": [
+        {
+          "name": "Abdullah Farouk",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@abdullah_farouk"
+        }
+      ],
+      "submitter": {},
+      "company": {
+        "name": "",
+        "source_url": "",
+        "confidence": ""
+      },
+      "enrichment_status": "enriched",
+      "contact_status": "found",
+      "contact_form_url": "https://sidekick-os.online/?ref=producthunt#talk",
+      "last_verified_at": "2026-08-13T04:40:22-07:00",
+      "emails": [
+        {
+          "email": "hello@sidekick.app",
+          "type": "general",
+          "contact_name": "",
+          "source_url": "https://sidekick-os.online/?ref=producthunt",
+          "source_context": "Visible Email us mailto on official homepage",
+          "source_tier": "official_site",
+          "is_publicly_listed": true,
+          "confidence": "high"
+        }
+      ],
+      "public_channels": [],
+      "pages_checked": [
+        "https://sidekick-os.online/?ref=producthunt"
+      ],
+      "notes": ""
+    },
+    {
+      "rank": 17,
+      "displayed_rank": 17,
+      "product_hunt_id": "",
+      "slug": "linforge",
+      "is_featured": true,
+      "featured_rank": 17,
+      "displayed_featured_rank": 17,
+      "featured_rank_source": "visible_featured_view_position",
+      "observed_in_all": false,
+      "observed_in_featured": true,
+      "recovered_from_view": "featured",
+      "product_name": "Linforge",
+      "tagline": "Turn Anki flashcards into real English conversations",
+      "description": "An English speaking practice tool with phoneme-level pronunciation and grammar correction, Anki deck synchronization, and progress tracking.",
+      "upvotes": 83,
+      "comments": 3,
+      "reviews_count": null,
+      "reviews_rating": null,
+      "created_at": "",
+      "featured_at": "",
+      "product_hunt_url": "https://www.producthunt.com/products/linforge",
+      "product_hunt_visit_url": "https://learn.aurakl.ai/",
+      "official_website_url": "https://learn.aurakl.ai/",
+      "thumbnail": null,
+      "media": [],
+      "topics": [
+        {
+          "name": "Messaging",
+          "slug": "messaging",
+          "url": "https://www.producthunt.com/topics/messaging"
+        },
+        {
+          "name": "Education",
+          "slug": "education",
+          "url": "https://www.producthunt.com/topics/education"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence",
+          "url": "https://www.producthunt.com/topics/artificial-intelligence"
+        }
+      ],
+      "product_links": [],
+      "developers": [
+        {
+          "name": "V Jack",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@v_jack"
+        }
+      ],
+      "submitter": {},
+      "company": {
+        "name": "",
+        "source_url": "",
+        "confidence": ""
+      },
+      "enrichment_status": "enriched",
+      "contact_status": "found",
+      "contact_form_url": "https://learn.aurakl.ai/contact",
+      "last_verified_at": "2026-08-13T04:40:22-07:00",
+      "emails": [
+        {
+          "email": "linforge-support@aurakl.ai",
+          "type": "support",
+          "contact_name": "",
+          "source_url": "https://learn.aurakl.ai/?ref=producthunt",
+          "source_context": "Visible Email mailto on official homepage",
+          "source_tier": "official_site",
+          "is_publicly_listed": true,
+          "confidence": "high"
+        }
+      ],
+      "public_channels": [
+        {
+          "type": "discord",
+          "value": "https://discord.gg/wcMS5X4URE",
+          "label": "Discord",
+          "owner": "Linforge",
+          "source_url": "https://learn.aurakl.ai/?ref=producthunt",
+          "source_context": "Linked from official homepage",
+          "source_tier": "official_linked_profile",
+          "confidence": "high"
+        }
+      ],
+      "pages_checked": [
+        "https://learn.aurakl.ai/?ref=producthunt"
+      ],
+      "notes": ""
+    },
+    {
+      "rank": 18,
+      "displayed_rank": 20,
+      "product_hunt_id": "",
+      "slug": "statewave",
+      "is_featured": false,
+      "featured_rank": null,
+      "displayed_featured_rank": null,
+      "featured_rank_source": "",
+      "observed_in_all": true,
+      "observed_in_featured": false,
+      "recovered_from_view": "",
+      "product_name": "Statewave",
+      "tagline": "Open-source memory runtime for production AI agents.",
+      "description": "An open-source, self-hosted memory runtime for AI agents providing durable structured context with provenance on Postgres.",
+      "upvotes": 30,
+      "comments": 19,
+      "reviews_count": null,
+      "reviews_rating": null,
+      "created_at": "",
+      "featured_at": "",
+      "product_hunt_url": "https://www.producthunt.com/products/statewave",
+      "product_hunt_visit_url": "https://statewave.ai/",
+      "official_website_url": "https://statewave.ai/",
+      "thumbnail": null,
+      "media": [],
+      "topics": [
+        {
+          "name": "Open Source",
+          "slug": "open-source",
+          "url": "https://www.producthunt.com/topics/open-source"
+        },
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools",
+          "url": "https://www.producthunt.com/topics/developer-tools"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence",
+          "url": "https://www.producthunt.com/topics/artificial-intelligence"
+        }
+      ],
+      "product_links": [],
+      "developers": [
+        {
+          "name": "Saber Maram",
+          "role": "Maker",
+          "source_url": "https://www.producthunt.com/@saber_maram"
+        }
+      ],
+      "submitter": {},
+      "company": {
+        "name": "",
+        "source_url": "",
+        "confidence": ""
+      },
+      "enrichment_status": "enriched",
+      "contact_status": "not_publicly_listed",
+      "contact_form_url": "",
+      "last_verified_at": "2026-08-13T04:40:22-07:00",
+      "emails": [],
+      "public_channels": [
+        {
+          "type": "github",
+          "value": "https://github.com/smaramwbc/statewave",
+          "label": "GitHub",
+          "owner": "Statewave",
+          "source_url": "https://www.statewave.ai/?ref=producthunt",
+          "source_context": "Linked from official homepage",
+          "source_tier": "official_linked_profile",
+          "confidence": "high"
+        }
+      ],
+      "pages_checked": [
+        "https://www.statewave.ai/?ref=producthunt"
+      ],
+      "notes": ""
+    }
+  ]
+}
