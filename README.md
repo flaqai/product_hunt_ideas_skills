@@ -125,33 +125,6 @@ python3 product-hunt-daily/scripts/update_example_index.py
 
 脚本会验证日期、完整交付物和规范化 JSON，然后自动更新项目首页与日期索引。
 
-## 关于 Flaq AI
-
-[Flaq AI](https://flaq.ai/about/) 是由 FLAQ AI PTE. LTD. 运营的多模型 AI 平台，将图像、视频、音频和语言模型放在一个平台中，帮助开发者、创意团队和企业完成模型发现、能力比较、API 集成和实际生产工作流。
-
-对于 Product Hunt 的产品团队，Flaq AI 可以用于：
-
-- 制作发布页所需的产品图、演示视频、社媒素材和广告创意；
-- 为 AI 产品或 Agent 接入图像、视频、音频和语言模型 API；
-- 快速比较不同模型，验证新功能和内容工作流；
-- 将 Product Hunt 发布后的反馈转化为新的产品演示、教程和营销素材。
-
-访问 [Flaq AI](https://flaq.ai/) 或查看其[模型与团队介绍](https://flaq.ai/about/)。
-
-## Flaq AI 联盟推广计划
-
-开发者、创作者、教育者、AI Agent 构建者和模型评测者可以加入 [Flaq AI Affiliate Program](https://flaq.ai/affiliate-program/)，创建个人推荐链接，并通过向合适的用户推荐 Flaq AI 服务获得佣金。
-
-截至 2026-08-13，官方页面公开规则为：
-
-- 被推荐用户的首笔有效付费订单：**20% 佣金**；
-- 注册后 60 天归因窗口内的后续有效付费订单：**10% 佣金**；
-- 退款、拒付、风险取消、归因状态和联盟政策会影响最终可支付佣金。
-
-条款可能变化，请始终以[联盟计划官方页面](https://flaq.ai/affiliate-program/)和当前协议为准。推广时应清楚披露联盟关系，不承诺收益、产品结果或长期不变的价格与佣金。
-
-详细说明见：[Flaq AI 联盟推广指南](docs/flaq-ai-affiliate-program.md)。
-
 ## Product Hunt 互助交流微信群
 
 如果你正在准备 Product Hunt 发布、寻找真实反馈、交流发布节奏，或希望认识更多出海产品、独立开发和 AI 创业伙伴，欢迎加入 Product Hunt 互助交流微信群。
@@ -178,3 +151,30 @@ python3 product-hunt-daily/scripts/update_example_index.py
 ## 搜索关键词
 
 Product Hunt 榜单 · Product Hunt 今日产品 · Product Hunt 数据抓取 · Product Hunt Launch · Product Hunt Maker · Product Hunt 团队 · Product Hunt 联系方式 · Product Hunt 发布互助 · Product Hunt 微信群 · 独立开发者出海 · AI 产品发现 · Product Hunt CSV · Product Hunt JSON · Codex Skill · Flaq AI · Flaq AI Affiliate Program
+
+## 关于 Flaq AI
+
+[Flaq AI](https://flaq.ai/about/) 是由 FLAQ AI PTE. LTD. 运营的多模型 AI 平台，将图像、视频、音频和语言模型放在一个平台中，帮助开发者、创意团队和企业完成模型发现、能力比较、API 集成和实际生产工作流。
+
+对于 Product Hunt 的产品团队，Flaq AI 可以用于：
+
+- 制作发布页所需的产品图、演示视频、社媒素材和广告创意；
+- 为 AI 产品或 Agent 接入图像、视频、音频和语言模型 API；
+- 快速比较不同模型，验证新功能和内容工作流；
+- 将 Product Hunt 发布后的反馈转化为新的产品演示、教程和营销素材。
+
+访问 [Flaq AI](https://flaq.ai/) 或查看其[模型与团队介绍](https://flaq.ai/about/)。
+
+## Flaq AI 联盟推广计划
+
+开发者、创作者、教育者、AI Agent 构建者和模型评测者可以加入 [Flaq AI Affiliate Program](https://flaq.ai/affiliate-program/)，创建个人推荐链接，并通过向合适的用户推荐 Flaq AI 服务获得佣金。
+
+截至 2026-08-13，官方页面公开规则为：
+
+- 被推荐用户的首笔有效付费订单：**20% 佣金**；
+- 注册后 60 天归因窗口内的后续有效付费订单：**10% 佣金**；
+- 退款、拒付、风险取消、归因状态和联盟政策会影响最终可支付佣金。
+
+条款可能变化，请始终以[联盟计划官方页面](https://flaq.ai/affiliate-program/)和当前协议为准。推广时应清楚披露联盟关系，不承诺收益、产品结果或长期不变的价格与佣金。
+
+详细说明见：[Flaq AI 联盟推广指南](docs/flaq-ai-affiliate-program.md)。

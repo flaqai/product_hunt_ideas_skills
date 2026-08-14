@@ -69,6 +69,14 @@ Use the product-hunt-daily Skill and the in-app browser to collect today's compl
 
 Browse the [dated example index](examples/README.md) or the [machine-readable index](examples/index.json). A validated example includes the raw browser capture, canonical JSON, CSV, readable list, contact audit, and source ledger.
 
+## Product Hunt mutual-support WeChat community
+
+People preparing a Product Hunt launch or exchanging launch feedback can add WeChat **aihelloleo** with the note **Product Hunt**. The community currently includes **3 mutual-support groups** and **1,000+ members**. Participation should focus on authentic feedback, experience sharing, and legitimate support—not fake accounts, bots, paid votes, or ranking manipulation.
+
+## Contributing and license
+
+New validated dates, browser compatibility fixes, schema improvements, translations, and data-quality cases are welcome. Read [`CONTRIBUTING.md`](CONTRIBUTING.md). The project is available under the [MIT License](LICENSE).
+
 ## About Flaq AI
 
 [Flaq AI](https://flaq.ai/about/) is a multi-model AI platform operated by FLAQ AI PTE. LTD. It brings image, video, audio, and language models into one platform for model discovery, comparison, API integration, and production workflows.
@@ -80,11 +88,3 @@ Product Hunt teams can use Flaq AI to create launch images, demos, social assets
 Developers, creators, educators, agent builders, and model reviewers can join the [Flaq AI Affiliate Program](https://flaq.ai/affiliate-program/) and create a personal referral link. As publicly listed on August 13, 2026, the program offers 20% on a referred user's first valid paid order and 10% on following valid paid orders within 60 days after registration. Attribution, refunds, chargebacks, risk review, and the active agreement affect final eligibility.
 
 Terms can change. Check the official program before publishing, disclose the affiliate relationship clearly, and do not promise earnings or product results. See the [affiliate guide](docs/flaq-ai-affiliate-program.md).
-
-## Product Hunt mutual-support WeChat community
-
-People preparing a Product Hunt launch or exchanging launch feedback can add WeChat **aihelloleo** with the note **Product Hunt**. The community currently includes **3 mutual-support groups** and **1,000+ members**. Participation should focus on authentic feedback, experience sharing, and legitimate support—not fake accounts, bots, paid votes, or ranking manipulation.
-
-## Contributing and license
-
-New validated dates, browser compatibility fixes, schema improvements, translations, and data-quality cases are welcome. Read [`CONTRIBUTING.md`](CONTRIBUTING.md). The project is available under the [MIT License](LICENSE).
